@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784008734883",
+    "project_id": "kotlinsocialclone",
+    "storage_bucket": "kotlinsocialclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784008734883:android:f5a0b937759639d1a73716",
+        "android_client_info": {
+          "package_name": "com.project.kotlinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784008734883-1u67g8dpria84c9m1lp7hd9bnglodi8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdwvU-OzgofyTFRX4m_YVrm7EvIco2wQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784008734883-1u67g8dpria84c9m1lp7hd9bnglodi8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

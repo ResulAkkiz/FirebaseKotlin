@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinFirebase</string>
+    <string name="e_mail">E-mail</string>
+    <string name="comment">Comment</string>
+</resources>
